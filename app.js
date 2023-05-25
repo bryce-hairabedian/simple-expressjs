@@ -9,6 +9,7 @@ app.use(express.json())
 /* Listener */
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
+  // uncomment the below to run a 4YFile report and post to xapi, will run after 15sec after app startup
   // setTimeout(post4YFile, 15000);
 })
 
@@ -58,7 +59,7 @@ async function post4YFile() {
 }
 
 
-async function startup(_func, _runCount) {
+async function runInterval(_func, _runCount) {
   let intervalId, i = 0;
   if(!intervalId) {
     intervalId = setInterval(() => {
@@ -68,6 +69,6 @@ async function startup(_func, _runCount) {
     }, 30000)
   }
 }
-// startup()
+// runInterval()
 
 
