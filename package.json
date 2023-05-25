@@ -1,7 +1,7 @@
 {
-  "name": "mock-medical-contractor",
+  "name": "simple-express",
   "version": "1.0.0",
-  "description": "mocking a medical contractor endpoint for testing",
+  "description": "mocking endpoints for testing",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
