@@ -6,7 +6,7 @@
 * *requires node.js 
 * clone repo
 * cd into repo root
-* npm install
+* $ npm install
 
 #### runnit
-* node app.js
+* $ node app.js
