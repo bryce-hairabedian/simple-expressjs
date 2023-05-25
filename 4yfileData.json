@@ -1,0 +1,58 @@
+[
+  {
+    "ssn": "123-45-6789",
+    "lastName": "Swift",
+    "firstName": "Taylor",
+    "address1": "123 South St",
+    "address2": "SuiteA",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "76001",
+    "telephone": "789-342-8712",
+    "sex": "M",
+    "dob": "20221223",
+    "email": "abc@abc.com"
+  },
+  {
+    "ssn": "987-65-4321",
+    "lastName": "Delonge",
+    "firstName": "Tom",
+    "middleInitial": "A",
+    "address1": "642 S Coast Hwy 101",
+    "city": "Encinitas",
+    "state": "CA",
+    "zipcode": "92024",
+    "telephone": "789-342-8712",
+    "sex": "F",
+    "dob": "20001223",
+    "email": "taco-shop@abc.com"
+  },
+  {
+    "ssn": "987-65-4321",
+    "lastName": "Joel",
+    "firstName": "Billy",
+    "middleInitial": "A",
+    "address1": "987 Main St",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20005",
+    "telephone": "789-342-8712",
+    "sex": "F",
+    "dob": "20001223",
+    "email": "jane@abc.com"
+  },
+  {
+    "ssn": "987-65-4321",
+    "lastName": "Cyrus",
+    "firstName": "Miley",
+    "middleInitial": "A",
+    "address1": "987 Main St",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20005",
+    "telephone": "789-342-8712",
+    "sex": "F",
+    "dob": "20001223",
+    "email": "jane@abc.com"
+  }
+]
