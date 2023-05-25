@@ -3,7 +3,7 @@
 
 ### Setup
 #### install 
-* *requires node.js 
+* *requires node.js https://nodejs.org/en
 * $ git clone <repo>
 * $ cd simple-express
 * $ npm install
