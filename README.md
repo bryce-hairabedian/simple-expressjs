@@ -5,7 +5,7 @@
 #### install 
 * *requires node.js https://nodejs.org/en
 * $ git clone <repo>
-* $ cd simple-express
+* $ cd simple-expressjs
 * $ npm install
 
 #### runnit
